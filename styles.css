@@ -1,0 +1,15 @@
+table, th, td {
+   border: 1px solid black;
+}
+
+.config-div {
+  background-color: lightBlue;
+  border-style: solid;
+  border-width: thin;
+  border-color: darkRed;
+  float: left;
+}
+
+#resultsDiv {
+  clear: both;
+}
